@@ -31,6 +31,8 @@ Com a alteração feita ... um bug foi encontrado em ... como visto na imagem a 
 
 ## O que testar
 
--[] Tente criar uma cidade e verifique se o seu id está correto
--[] Tente excluir uma cidade e verifique se a cidade excluída foi a correta
+- [ ] Tente criar uma cidade e verifique se o seu id está correto
+
+- [ ] Tente excluir uma cidade e verifique se a cidade excluída foi a correta
+
 ...
