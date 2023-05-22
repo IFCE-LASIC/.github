@@ -26,6 +26,7 @@ Com o novo modelo de cidades se viu necessário a alteração da referência do 
 
 ## Descrição
 Com a alteração feita ... um bug foi encontrado em ... como visto na imagem a seguir:
+
 ![Sem título](https://github.com/IFCE-LASIC/lasic-gep-front-next/assets/67613937/a4eef649-3f6a-4414-b858-2167c850c695)
 
 ## O que testar
